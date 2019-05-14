@@ -108,7 +108,7 @@ class User(AbstractBaseUser):
     # notice the absence of a "Password field", that's built in.
 
     USERNAME_FIELD = 'phone_number'
-    REQUIRED_FIELDS = ['']
+    # REQUIRED_FIELDS = ['']
 
     objects = UserManager()
 
