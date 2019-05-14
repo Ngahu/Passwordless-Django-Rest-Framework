@@ -1,0 +1,13 @@
+africastalking==1.1.5
+certifi==2019.3.9
+chardet==3.0.4
+contextlib2==0.5.5
+Django==1.11.20
+djangorestframework==3.9.3
+gunicorn==19.9.0
+idna==2.8
+python-decouple==3.1
+pytz==2019.1
+requests==2.21.0
+schema==0.7.0
+urllib3==1.24.3
