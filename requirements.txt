@@ -2,7 +2,7 @@ africastalking==1.1.5
 certifi==2019.3.9
 chardet==3.0.4
 contextlib2==0.5.5
-Django==1.11.20
+Django==1.11.23
 djangorestframework==3.9.3
 gunicorn==19.9.0
 idna==2.8
